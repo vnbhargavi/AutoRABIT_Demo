@@ -2,7 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>AccountDatatabl</members>
-        <members>ConcurrentSessionsPolicyCondition</members>
+        <members>AccountPage</members>
         <name>ApexClass</name>
     </types>
     <version>35.0</version>
