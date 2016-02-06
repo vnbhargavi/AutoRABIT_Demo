@@ -2,16 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>AccountDatatabl</members>
-        <members>ExecuteOrder</members>
-        <members>ExtJStabController</members>
-        <members>Extension1Class</members>
-        <members>Extension2Class</members>
-        <members>ForgotPasswordController</members>
+        <members>ConcurrentSessionsPolicyCondition</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>mycomponent</members>
-        <name>ApexComponent</name>
     </types>
     <version>35.0</version>
 </Package>
